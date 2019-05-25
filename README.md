@@ -2,7 +2,7 @@
 - 大致翻译自 [Getting Started: Building a Chrome Extension - Google Chrome](https://developer.chrome.com/extensions/getstarted)
 - 最简单的功能: 点击插件 icon, 会有个小弹窗, 显示当前 tab 的 property
     - PS: 原本官方文档中的 demo 使用的 google image search API 已经停用, 所以去掉了搜索图片的功能
-
+https://www.cnblogs.com/linlei2099/p/9154676.html
 ## 目录
 ```
 |____icon.png       # 图标, 显示在 chrome 上可点击按钮
