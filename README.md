@@ -6,6 +6,7 @@
 ### 参考链接
 https://blog.csdn.net/fyyyr/article/details/80949917
 https://www.cnblogs.com/linlei2099/p/9154676.html
+https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html
 ## 目录
 ```
 |____icon.png       # 图标, 显示在 chrome 上可点击按钮
